@@ -1,5 +1,13 @@
 {
 	"empleos":[
+	{
+            "nombreProyecto": "Programdor en android",
+            "descriProyecto": "Se busca programador con conociemientos en software de escritorio para un proyecto de aplicativos tanto moviles y escritorio.",
+            "Ubicacion": "Puno",
+            "Habilidades": "SQL",
+            "remuneracion": "S/. 700",
+            "Fecha": "05/31/2021"
+        },
         {
             "nombreProyecto": "Programdor c++",
             "descriProyecto": "Se busca programador con conociemientos en software de escritorio para un proyecto de aplicativos tanto moviles y escritorio.",
