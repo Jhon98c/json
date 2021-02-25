@@ -1,7 +1,15 @@
 {
 	"empleos":[
 	{
-            "nombreProyecto": "Programdor en android",
+            "nombreProyecto": "Se busca practicando con conocimento en Flutter",
+            "descriProyecto": "Se busca programador con conociemientos en aplicaciones moviles para un proyecto de aplicativos tanto moviles.",
+            "Ubicacion": "Juliaca",
+            "Habilidades": "Android, dart, php",
+            "remuneracion": "S/. 1500",
+            "Fecha": "05/31/2021"
+        },
+	{
+            "nombreProyecto": "Programador en android",
             "descriProyecto": "Se busca programador con conociemientos en software de escritorio para un proyecto de aplicativos tanto moviles y escritorio.",
             "Ubicacion": "Puno",
             "Habilidades": "SQL",
