@@ -1,4 +1,4 @@
-{
+[
    "empleos": [
     {
         "nombreProyecto": "Programdor c++",
@@ -82,4 +82,4 @@
     }
 
    ]
-}
+]
